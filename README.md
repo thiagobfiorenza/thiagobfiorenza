@@ -3,7 +3,8 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thiagobfiorenza)](https://github.com/thiagobfiorenza)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagobfiorenza/)](https://www.linkedin.com/in/thiagobfiorenza/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagobfiorenza@gmail.com)](mailto:thiagobfiorenza@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/Tweet--lightgrey?logo=twitter&style=social&link=https://twitter.com/thiagobfiorenza)](https://twitter.com/thiagobfiorenza)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-blue?logo=twitter&style=flat-square&link=https://twitter.com/thiagobfiorenza)](https://twitter.com/thiagobfiorenza)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-black?logo=instagram&style=flat-square&link=https://instagram.com/thiagobfiorenza)](https://instagram.com/thiagobfiorenza)
 
 **Tech ❤️:**  
 
@@ -13,6 +14,7 @@
 <code><img height="30" title="Laminas (Zend)" src="https://avatars.githubusercontent.com/u/47865178?s=280&v=4"></code>
 <code><img height="30" title="CakePHP" src="https://gvimalanand.files.wordpress.com/2018/04/cake-php-img.png"></code>
 <code><img height="30" title="Yii" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yii/yii.png"></code>
+<code><img height="30" title="Wordpress" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 
 <code><img height="30" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" title="jQuery" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
