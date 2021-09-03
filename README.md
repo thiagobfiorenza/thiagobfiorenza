@@ -2,9 +2,22 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thiagobfiorenza)](https://github.com/thiagobfiorenza)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagobfiorenza/)](https://www.linkedin.com/in/thiagobfiorenza/)
+[![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-grey?logo=stackoverflow&style=flat-square&link=https://stackoverflow.com/users/12178199/thiago-bueno-fiorenza)](https://stackoverflow.com/users/12178199/thiago-bueno-fiorenza)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagobfiorenza@gmail.com)](mailto:thiagobfiorenza@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?logo=twitter&style=flat-square&link=https://twitter.com/thiagobfiorenza)](https://twitter.com/thiagobfiorenza)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-black?logo=instagram&style=flat-square&link=https://instagram.com/thiagobfiorenza)](https://instagram.com/thiagobfiorenza)
+
+**Personal Infos:**
+
+I'm a Web Development enthusiastic.
+
+With over 14 years of work in Backend and Frontend Programming, I have extensive knowledge of PHP as well as extensive experience with HTML and CSS, for which I have great affection.
+
+I already realized great work both in developing websites and portals and in implementing and maintaining educational and government systems.
+
+<a href="https://github.com/thiagobfiorenza">
+    <img width="50%" align="right" width="50%" alt="paulophmp github stats" src="https://github-readme-stats.vercel.app/api?username=thiagobfiorenza&show_icons=false&hide_border=false&theme=dracula"/>
+</a>
 
 **Tech ❤️:**  
 
